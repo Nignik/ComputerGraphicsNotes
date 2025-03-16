@@ -1,0 +1,3 @@
+- _frustum_ - view volume
+- _normalized device coordinates_ - coordinates from $(-1, -1, -1)$ to $(1, 1, 1)$
+- _perspective division_ - places vertices in _normalized device coordinates_

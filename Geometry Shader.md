@@ -1,0 +1,3 @@
+- Often used for particle generation
+- Can turn a point into a square (for example)
+- Can generate vertices

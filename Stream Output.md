@@ -1,0 +1,1 @@
+- Can be used to output vertices into an array for further processing, even on CPU

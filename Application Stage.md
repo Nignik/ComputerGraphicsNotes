@@ -1,0 +1,3 @@
+- Developer has full control over it
+- Usually executes on CPU
+- Some work can be performed on the GPU using [[Compute Shader | compute shader]]
