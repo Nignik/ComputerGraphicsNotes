@@ -1,0 +1,4 @@
+- Merges color stored in the _color buffer_, with the color produced by pixel shading stage. This is called _rasterized operations pipeline_ (ROP)
+- Not fully programmable, but highly configurable
+- Responsible for visibility using _depth buffer_
+- 

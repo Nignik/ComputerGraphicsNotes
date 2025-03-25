@@ -1,0 +1,1 @@
+- Responsible for calculating pixel differentials, edge equations, and other data

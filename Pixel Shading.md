@@ -1,0 +1,4 @@
+- Responsible for per pixel computations
+- Passes one or more colors to the next stage
+- Executed by programmable GPU cores
+- Responsible for texturing

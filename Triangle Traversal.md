@@ -1,0 +1,1 @@
+- Renders each pixel overlapping the triangle

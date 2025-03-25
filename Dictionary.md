@@ -1,3 +1,10 @@
 - _frustum_ - view volume
 - _normalized device coordinates_ - coordinates from $(-1, -1, -1)$ to $(1, 1, 1)$
 - _perspective division_ - places vertices in _normalized device coordinates_
+- _color buffer_ - stores color information for each pixel in a rectangular array
+- _rasterized operation pipeline_ - merging pixel shader color with _color buffer_
+- _depth buffer_ - stores information about the z-depth for each primitive
+- _alpha channel_ - stores opacity value for each pixel
+- _stencil buffer_ - used to record the location of the rendered primitive
+- _frame buffer_ - collection of all the buffer in a system
+- _double buffering_ - having two buffers, so that viewer always see fully rendered scene
