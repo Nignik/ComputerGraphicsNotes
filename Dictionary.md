@@ -8,3 +8,7 @@
 - _stencil buffer_ - used to record the location of the rendered primitive
 - _frame buffer_ - collection of all the buffer in a system
 - _double buffering_ - having two buffers, so that viewer always see fully rendered scene
+- _trace_ - sum of diagonal elements of matrix
+- _geodesic curve_ - a curve, that zero acceleration
+- _great circle_ - intersection of a plane through sphere origin
+- _great arc_ - part of great circle
