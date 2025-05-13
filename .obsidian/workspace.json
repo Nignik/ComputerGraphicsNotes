@@ -8,35 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7dea9da84d31e544",
+            "id": "9ab83c33e30afff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary.md",
+                "file": "Shading Models/Gooch shading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dictionary"
+              "title": "Gooch shading"
             }
           },
           {
-            "id": "2082ba09b4c000b4",
+            "id": "5e828bc81ad80897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformations.md",
+                "file": "Shading Models/Basic light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformations"
+              "title": "Basic light"
+            }
+          },
+          {
+            "id": "45928fd84368ae4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shading Models/Punctual Lights.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Punctual Lights"
+            }
+          },
+          {
+            "id": "64434744940c406a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorytmy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorytmy"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,30 +212,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2082ba09b4c000b4",
+  "active": "64434744940c406a",
   "lastOpenFiles": [
-    "Dictionary.md",
-    "Transformations.md",
-    "Translation.md",
-    "Rotation.md",
+    "Shading Models/Punctual Lights.md",
+    "Algorytmy.md",
+    "Shading Models/Gooch shading.md",
+    "Shading Models/Basic light.md",
+    "Other/Dictionary.md",
+    "Other",
+    "Transformations/Quaternions.md",
+    "Transformations/Shearing.md",
+    "Transformations/Transformations.md",
+    "Transformations/Projections.md",
+    "Transformations/Vertex Blending.md",
+    "Transformations/Morphing.md",
+    "Transformations/Euler Transform.md",
+    "Transformations/Scaling.md",
+    "Transformations/Translation.md",
+    "Transformations/Rotation.md",
+    "Graphics Rendering Pipeline/Application Stage.md",
+    "Graphics Rendering Pipeline/Projection.md",
+    "Graphics Rendering Pipeline/Geometry Processing Stage.md",
+    "Graphics Rendering Pipeline/Clipping.md",
+    "Graphics Rendering Pipeline/Merging.md",
+    "Graphics Rendering Pipeline",
+    "Transformations",
+    "Shading Models",
     "Graphics Processing Unit.md",
-    "Application Stage.md",
-    "Geometry Processing Stage.md",
-    "Geometry Shader.md",
-    "Graphics Rendering Pipeline.md",
-    "Pixel Shading.md",
-    "Rasterization Stage.md",
-    "Stream Output.md",
-    "Triangle Setup.md",
-    "Triangle Traversal.md",
-    "Merging.md",
-    "Pixel Processing Stage.md",
-    "Projection.md",
-    "Vertex Shader.md",
+    "Graphics Rendering Pipeline/Geometry Shader.md",
+    "Graphics Rendering Pipeline/Graphics Rendering Pipeline.md",
+    "Graphics Rendering Pipeline/Pixel Shading.md",
+    "Graphics Rendering Pipeline/Rasterization Stage.md",
+    "Graphics Rendering Pipeline/Stream Output.md",
     "images/rasterization_pipeline.png",
-    "Tessellation Stage.md",
-    "Screen Mapping.md",
-    "Clipping.md",
     "images/screen_mapping.png",
     "images/projection.png",
     "images/clipping.png",

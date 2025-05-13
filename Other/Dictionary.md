@@ -12,3 +12,5 @@
 - _geodesic curve_ - a curve, that zero acceleration
 - _great circle_ - intersection of a plane through sphere origin
 - _great arc_ - part of great circle
+- _canonical view volume_ - coordinates of an axis-aligned cube
+- _normalized device coordinates_ - coordinates of canonical view volume
